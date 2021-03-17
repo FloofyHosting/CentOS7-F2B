@@ -5,4 +5,4 @@ CentOS 7 Fail2Ban installer, made public because it's an extremely useful script
 
 To setup Fail2Ban just run the following command:
 
-```https://raw.githubusercontent.com/FloofyHosting/CentOS7-F2B/main/fh-f2b-installer.sh```
+```bash <(curl https://raw.githubusercontent.com/FloofyHosting/CentOS7-F2B/main/fh-f2b-installer.sh)```
